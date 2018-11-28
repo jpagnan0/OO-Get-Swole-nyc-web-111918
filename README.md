@@ -8,6 +8,8 @@ Here's what we need to be able to do.
 
 **Lifter**
 
+### TASKS
+
   - [] Get a list of all lifters
 
   - [] Get a list of all the memberships that a specific lifter has
